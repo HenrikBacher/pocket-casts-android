@@ -3,6 +3,9 @@
 *   Updates
     *   Add periodic requests for the app rating
         ([#4725](https://github.com/Automattic/pocket-casts-android/pull/4725))
+*   Bug Fixes
+    *   Fix autoplay not starting playback from the current position in the list
+        ([#4739](https://github.com/Automattic/pocket-casts-android/pull/4739))
 
 8.0
 -----
